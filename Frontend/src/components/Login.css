@@ -1,0 +1,34 @@
+
+
+body, html {
+  height: 100%;
+
+}
+
+.title {
+  font-size: 48px;
+  margin-bottom: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 540;
+  color: #374375;
+}
+
+.title h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 50;
+  margin-bottom: 10px;
+}
+
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: calc(90vh - 20px); /* Adjusted height to make the page longer */
+  
+}
+
+
+
